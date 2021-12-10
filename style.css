@@ -1,0 +1,23 @@
+body
+{
+background-size: cover;
+}
+
+.heading{
+
+width : 100%;
+
+}
+
+#PPID{
+
+    font-size:50px;
+    float: left;
+
+}
+
+#IN{
+
+    float: right;
+    font-size:30px;
+}
